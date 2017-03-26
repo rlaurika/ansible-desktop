@@ -1,0 +1,3 @@
+---
+# Role for installing i3
+- src: https://github.com/rlaurika/ansible-role-i3
